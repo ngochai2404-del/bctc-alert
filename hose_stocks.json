@@ -1,0 +1,2032 @@
+{
+  "AAA": {
+    "id": 2896,
+    "name": "Công ty Cổ phần Nhựa An Phát Xanh",
+    "webUrl": "www.anphatbioplastics.com"
+  },
+  "AAM": {
+    "id": 2249,
+    "name": "Công ty Cổ phần Thủy sản Mekong",
+    "webUrl": "www.mekongfish.vn"
+  },
+  "AAN": {
+    "id": 7879,
+    "name": "Công ty Cổ phần Lương thực A An",
+    "webUrl": "https://aan.vn/"
+  },
+  "AAT": {
+    "id": 3055,
+    "name": "Công ty Cổ phần Tập đoàn Tiên Sơn Thanh Hóa",
+    "webUrl": "www.tiensonaus.com"
+  },
+  "ABR": {
+    "id": 3687,
+    "name": "Công ty Cổ phần Đầu tư Nhãn hiệu Việt",
+    "webUrl": "http://www.vbinvest.com.vn"
+  },
+  "ABS": {
+    "id": 3143,
+    "name": "Công ty Cổ phần Dịch vụ Nông nghiệp Bình Thuận",
+    "webUrl": "www.bitagco.com"
+  },
+  "ABT": {
+    "id": 2189,
+    "name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre",
+    "webUrl": "www.aquatexbentre.com"
+  },
+  "ACB": {
+    "id": 2784,
+    "name": "Ngân hàng Thương mại Cổ phần Á Châu",
+    "webUrl": "www.acb.com.vn"
+  },
+  "ACC": {
+    "id": 2511,
+    "name": "Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC",
+    "webUrl": "www.becamexacc.com.vn"
+  },
+  "ACG": {
+    "id": 4080,
+    "name": "Công ty Cổ phần Gỗ An Cường",
+    "webUrl": "www.ancuong.com"
+  },
+  "ACL": {
+    "id": 2279,
+    "name": "Công ty Cổ phần Xuất Nhập Khẩu Thủy sản Cửu Long An Giang",
+    "webUrl": "www.clfish.com"
+  },
+  "ADG": {
+    "id": 3003,
+    "name": "Công ty Cổ phần Clever Group",
+    "webUrl": "www.clevergroup.vn"
+  },
+  "ADP": {
+    "id": 3995,
+    "name": "Công ty Cổ phần Sơn Á Đông",
+    "webUrl": "www.adongpaint.com.vn"
+  },
+  "ADS": {
+    "id": 2435,
+    "name": "Công ty Cổ phần Damsan",
+    "webUrl": "www.damsanjsc.vn"
+  },
+  "AFX": {
+    "id": 4119,
+    "name": "Công ty Cổ phần Xuất nhập khẩu Nông sản Thực phẩm An Giang",
+    "webUrl": "www.afiex.com.vn"
+  },
+  "AGG": {
+    "id": 2987,
+    "name": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia",
+    "webUrl": "www.angia.com.vn"
+  },
+  "AGR": {
+    "id": 2348,
+    "name": "Công ty Cổ phần Chứng khoán Agribank",
+    "webUrl": "www.agriseco.com.vn"
+  },
+  "ANT": {
+    "id": 7579,
+    "name": "Công ty Cổ phần Rau quả Thực phẩm An Giang",
+    "webUrl": "www.antesco.com"
+  },
+  "ANV": {
+    "id": 2233,
+    "name": "Công ty Cổ phần Nam Việt",
+    "webUrl": "http://www.navicorp.com.vn"
+  },
+  "APG": {
+    "id": 2872,
+    "name": "Công ty Cổ phần Chứng khoán APG",
+    "webUrl": "https://www.apsi.vn"
+  },
+  "APH": {
+    "id": 2839,
+    "name": "Công ty Cổ phần Tập đoàn An Phát Holdings",
+    "webUrl": "www.anphatholdings.vn"
+  },
+  "ASG": {
+    "id": 2787,
+    "name": "Công ty Cổ phần Tập đoàn ASG",
+    "webUrl": "http://asg.net.vn"
+  },
+  "ASM": {
+    "id": 2365,
+    "name": "Công ty Cổ phần Tập đoàn Sao Mai",
+    "webUrl": "saomaigroup.com"
+  },
+  "ASP": {
+    "id": 2300,
+    "name": "Công ty Cổ phần Tập đoàn Dầu khí An Pha",
+    "webUrl": "www.anphapetrol.com"
+  },
+  "AST": {
+    "id": 2721,
+    "name": "Công ty Cổ phần Dịch vụ Hàng không Taseco",
+    "webUrl": "tasecoairs.vn"
+  },
+  "BAF": {
+    "id": 3884,
+    "name": "Công ty Cổ phần Nông nghiệp BAF Việt Nam",
+    "webUrl": "http://baf.vn/"
+  },
+  "BCE": {
+    "id": 2385,
+    "name": "Công ty Cổ phần Xây dựng và Giao thông Bình Dương",
+    "webUrl": "www.becamexbce.com.vn"
+  },
+  "BCM": {
+    "id": 3131,
+    "name": "Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP",
+    "webUrl": "www.becamex.com.vn"
+  },
+  "BFC": {
+    "id": 2700,
+    "name": "Công ty Cổ phần Phân bón Bình Điền",
+    "webUrl": "www.binhdien.com"
+  },
+  "BHN": {
+    "id": 2471,
+    "name": "Tổng Công ty Cổ phần Bia – Rượu – Nước giải khát Hà Nội",
+    "webUrl": "http://www.habeco.com.vn"
+  },
+  "BIC": {
+    "id": 2507,
+    "name": "Tổng Công ty Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam",
+    "webUrl": "www.bic.vn"
+  },
+  "BID": {
+    "id": 2289,
+    "name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+    "webUrl": "www.bidv.com.vn"
+  },
+  "BKG": {
+    "id": 3122,
+    "name": "Công ty Cổ phần Đầu tư BKG Việt Nam",
+    "webUrl": "http://www.bkgvietnam.com"
+  },
+  "BMC": {
+    "id": 2153,
+    "name": "Công ty Cổ phần Khoáng sản Bình Định",
+    "webUrl": "www.bimico.binhdinh.com.vn"
+  },
+  "BMI": {
+    "id": 2439,
+    "name": "Tổng Công ty Cổ phần Bảo Minh",
+    "webUrl": "www.baominh.com.vn"
+  },
+  "BMP": {
+    "id": 2282,
+    "name": "Công ty Cổ phần Nhựa Bình Minh",
+    "webUrl": "www.binhminhplastic.com"
+  },
+  "BRC": {
+    "id": 2483,
+    "name": "Công ty Cổ phần Cao su Bến Thành",
+    "webUrl": "www.berubco.com.vn"
+  },
+  "BSI": {
+    "id": 2539,
+    "name": "Công ty Cổ phần Chứng khoán BIDV",
+    "webUrl": "www.bsc.com.vn"
+  },
+  "BSR": {
+    "id": 4682,
+    "name": "Công ty Cổ phần - Tổng Công ty Lọc hóa dầu Việt Nam",
+    "webUrl": "www.bsr.com.vn"
+  },
+  "BTP": {
+    "id": 2337,
+    "name": "Công ty Cổ phần Nhiệt điện Bà Rịa",
+    "webUrl": "www.btp.com.vn"
+  },
+  "BTT": {
+    "id": 2405,
+    "name": "Công ty Cổ phần Thương mại – Dịch vụ Bến Thành",
+    "webUrl": "www.benthanhtsc.com"
+  },
+  "BVB": {
+    "id": 8199,
+    "name": "Ngân hàng Thương mại Cổ phần Bản Việt",
+    "webUrl": "https://bvbank.net.vn"
+  },
+  "BVH": {
+    "id": 2380,
+    "name": "Tập đoàn Bảo Việt",
+    "webUrl": "www.baoviet.com.vn"
+  },
+  "BWE": {
+    "id": 2662,
+    "name": "Công ty Cổ phần - Tổng Công ty Nước – Môi trường Bình Dương",
+    "webUrl": "http://www.biwase.com.vn"
+  },
+  "C32": {
+    "id": 2514,
+    "name": "Công ty Cổ phần Đầu tư và Xây dựng 3-2",
+    "webUrl": "www.c32.vn"
+  },
+  "C47": {
+    "id": 2457,
+    "name": "Công ty Cổ phần Xây dựng 47",
+    "webUrl": "www.xaydung47.vn"
+  },
+  "CCC": {
+    "id": 4781,
+    "name": "Công ty Cổ phần Xây dựng CDC",
+    "webUrl": "www.cdcxd.com.vn"
+  },
+  "CCI": {
+    "id": 2414,
+    "name": "Công ty Cổ phần Đầu tư Phát triển Công nghiệp - Thương mại Củ Chi",
+    "webUrl": "www.cidico.com.vn"
+  },
+  "CCL": {
+    "id": 2371,
+    "name": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long",
+    "webUrl": "www.pvcl.com.vn  -  www.dothi5a.com"
+  },
+  "CDC": {
+    "id": 2445,
+    "name": "Công ty Cổ phần Chương Dương",
+    "webUrl": "http://www.chuongduongcorp.vn"
+  },
+  "CHP": {
+    "id": 2751,
+    "name": "Công ty Cổ phần Thủy điện Miền Trung",
+    "webUrl": "www.chp.vn"
+  },
+  "CIG": {
+    "id": 2513,
+    "name": "Công ty Cổ phần COMA18",
+    "webUrl": "www.coma18.vn"
+  },
+  "CII": {
+    "id": 2174,
+    "name": "Công ty Cổ phần Đầu tư Hạ tầng Kỹ thuật TP.HCM",
+    "webUrl": "http://cii.com.vn"
+  },
+  "CKG": {
+    "id": 2763,
+    "name": "Công ty Cổ phần Tập đoàn CIC",
+    "webUrl": "www.cicgroups.com"
+  },
+  "CLC": {
+    "id": 2161,
+    "name": "Công ty Cổ phần Cát Lợi",
+    "webUrl": "www.catloi.com.vn"
+  },
+  "CLL": {
+    "id": 2834,
+    "name": "Công ty Cổ phần Cảng Cát Lái",
+    "webUrl": "www.catlaiport.com.vn"
+  },
+  "CLW": {
+    "id": 2456,
+    "name": "Công ty Cổ phần Cấp nước Chợ Lớn",
+    "webUrl": "www.capnuoccholon.com.vn"
+  },
+  "CMG": {
+    "id": 2359,
+    "name": "Công ty Cổ phần Tập đoàn Công nghệ CMC",
+    "webUrl": "www.cmc.com.vn"
+  },
+  "CMV": {
+    "id": 2460,
+    "name": "Công ty Cổ phần Thương nghiệp Cà Mau",
+    "webUrl": "www.tncm.com.vn"
+  },
+  "CMX": {
+    "id": 2336,
+    "name": "Công ty Cổ phần Camimex Group",
+    "webUrl": "www.camimex.com.vn"
+  },
+  "CNG": {
+    "id": 2482,
+    "name": "Công ty Cổ phần CNG Việt Nam",
+    "webUrl": "www.cngvietnam.com"
+  },
+  "COM": {
+    "id": 2148,
+    "name": "Công ty Cổ phần Vật tư - Xăng dầu",
+    "webUrl": "www.comeco.vn"
+  },
+  "CRC": {
+    "id": 2836,
+    "name": "Công ty Cổ phần Create Capital Việt Nam",
+    "webUrl": "www.createcapital.vn"
+  },
+  "CRE": {
+    "id": 2819,
+    "name": "Công ty Cổ phần Bất động sản Thế Kỷ",
+    "webUrl": "https://www.cenland.vn"
+  },
+  "CRV": {
+    "id": 4790,
+    "name": "Công ty Cổ phần Tập đoàn Bất động sản CRV",
+    "webUrl": "www.crvgroup.vn"
+  },
+  "CSM": {
+    "id": 2352,
+    "name": "Công ty Cổ phần Công nghiệp Cao su Miền Nam",
+    "webUrl": "www.casumina.com.vn"
+  },
+  "CSV": {
+    "id": 2813,
+    "name": "Công ty Cổ phần Hóa chất cơ bản miền Nam",
+    "webUrl": "www.sochemvn.com"
+  },
+  "CTD": {
+    "id": 2334,
+    "name": "Công ty Cổ phần Xây dựng COTECCONS",
+    "webUrl": "www.coteccons.vn"
+  },
+  "CTF": {
+    "id": 2474,
+    "name": "Công ty Cổ phần City Auto",
+    "webUrl": "https://cityautogroup.vn"
+  },
+  "CTG": {
+    "id": 2351,
+    "name": "Ngân hàng Thương mại Cổ phần Công Thương Việt Nam",
+    "webUrl": "www.vietinbank.vn"
+  },
+  "CTI": {
+    "id": 2402,
+    "name": "Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO",
+    "webUrl": "www.cuongthuan.com"
+  },
+  "CTR": {
+    "id": 3820,
+    "name": "Tổng Công ty Cổ phần Công trình Viettel",
+    "webUrl": "https://viettelconstruction.com.vn"
+  },
+  "CTS": {
+    "id": 2807,
+    "name": "Công ty Cổ phần Chứng khoán VietinBank",
+    "webUrl": "https://www.vbse.vn"
+  },
+  "CVT": {
+    "id": 3113,
+    "name": "Công ty Cổ phần CMC",
+    "webUrl": "www.cmctiles.vn"
+  },
+  "D2D": {
+    "id": 2355,
+    "name": "Công ty Cổ phần Phát triển Đô thị Công nghiệp số 2",
+    "webUrl": "www.d2d.com.vn"
+  },
+  "DAH": {
+    "id": 3197,
+    "name": "Công ty Cổ phần Tập đoàn Khách sạn Đông Á",
+    "webUrl": "https://www.mayplazahotel.com"
+  },
+  "DAT": {
+    "id": 2727,
+    "name": "Công ty Cổ phần Đầu tư Du lịch và Phát triển Thủy sản",
+    "webUrl": "www.trisedco.com"
+  },
+  "DBC": {
+    "id": 3033,
+    "name": "Công ty Cổ phần Tập đoàn DABACO Việt Nam",
+    "webUrl": "www.dabaco.com.vn"
+  },
+  "DBD": {
+    "id": 2785,
+    "name": "Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định",
+    "webUrl": "www.bidiphar.com"
+  },
+  "DBT": {
+    "id": 3119,
+    "name": "Công ty Cổ phần Dược phẩm Bến Tre",
+    "webUrl": "www.bepharco.com"
+  },
+  "DC4": {
+    "id": 2772,
+    "name": "Công ty Cổ phần DICERA Holdings",
+    "webUrl": "www.dicera.vn"
+  },
+  "DCL": {
+    "id": 2321,
+    "name": "Công ty Cổ phần Dược phẩm Cửu Long",
+    "webUrl": "http://dcl.com.vn"
+  },
+  "DCM": {
+    "id": 2838,
+    "name": "Công ty Cổ phần - Tổng Công ty Phân bón Dầu khí Cà Mau",
+    "webUrl": "www.pvcfc.com.vn"
+  },
+  "DGC": {
+    "id": 3153,
+    "name": "Công ty Cổ phần Tập đoàn Hóa chất Đức Giang",
+    "webUrl": "http://www.ducgiangchem.vn"
+  },
+  "DGW": {
+    "id": 3151,
+    "name": "Công ty Cổ phần Thế Giới Số",
+    "webUrl": "www.digiworld.com.vn"
+  },
+  "DHA": {
+    "id": 2194,
+    "name": "Công ty Cổ phần Hóa An",
+    "webUrl": "www.hoaan.com.vn"
+  },
+  "DHC": {
+    "id": 2376,
+    "name": "Công ty Cổ phần Đông Hải Bến Tre",
+    "webUrl": "www.dohacobentre.com.vn"
+  },
+  "DHG": {
+    "id": 2317,
+    "name": "Công ty Cổ phần Dược Hậu Giang",
+    "webUrl": "www.dhgpharma.com.vn"
+  },
+  "DHM": {
+    "id": 2311,
+    "name": "Công ty Cổ phần Đầu tư và Thương mại DHM",
+    "webUrl": "www.dhmjsc.vn"
+  },
+  "DIG": {
+    "id": 2349,
+    "name": "Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng",
+    "webUrl": "www.dic.vn"
+  },
+  "DLG": {
+    "id": 2386,
+    "name": "Công ty Cổ phần Tập đoàn Đức Long Gia Lai",
+    "webUrl": "www.duclonggroup.com"
+  },
+  "DMC": {
+    "id": 2288,
+    "name": "Công ty Cổ phần Xuất nhập khẩu Y tế DOMESCO",
+    "webUrl": "www.domesco.com"
+  },
+  "DMX": {
+    "id": 8400,
+    "name": "Công ty Cổ phần Đầu tư Điện Máy Xanh",
+    "webUrl": "www.dmx.vn"
+  },
+  "DPG": {
+    "id": 2750,
+    "name": "Công ty Cổ phần Tập đoàn Đạt Phương",
+    "webUrl": "www.datphuong.com.vn"
+  },
+  "DPM": {
+    "id": 2205,
+    "name": "Tổng Công ty Phân bón và Hóa chất Dầu khí - Công ty Cổ phần",
+    "webUrl": "www.dpm.vn"
+  },
+  "DPR": {
+    "id": 2232,
+    "name": "Công ty Cổ phần Cao su Đồng Phú",
+    "webUrl": "http://doruco.com.vn"
+  },
+  "DQC": {
+    "id": 2505,
+    "name": "Công ty Cổ phần Tập đoàn Điện Quang",
+    "webUrl": "http://www.dqc.vn"
+  },
+  "DRC": {
+    "id": 2158,
+    "name": "Công ty Cổ phần Cao su Đà Nẵng",
+    "webUrl": "www.drc.com.vn"
+  },
+  "DRH": {
+    "id": 2390,
+    "name": "Công ty Cổ phần DRH Holdings",
+    "webUrl": "www.drh.vn"
+  },
+  "DRL": {
+    "id": 2486,
+    "name": "Công ty Cổ phần Thủy điện - Điện lực 3",
+    "webUrl": "www.pc3hp.com.vn"
+  },
+  "DSC": {
+    "id": 4680,
+    "name": "Công ty Cổ phần Chứng khoán DSC",
+    "webUrl": "www.dsc.com.vn"
+  },
+  "DSE": {
+    "id": 4684,
+    "name": "Công ty Cổ phần Chứng khoán DNSE",
+    "webUrl": "www.dnse.com.vn"
+  },
+  "DSN": {
+    "id": 2437,
+    "name": "Công ty Cổ phần Công viên nước Đầm Sen",
+    "webUrl": "www.damsenwaterpark.com.vn"
+  },
+  "DTA": {
+    "id": 2399,
+    "name": "Công ty Cổ phần Đệ Tam",
+    "webUrl": "www.detamland.com"
+  },
+  "DTL": {
+    "id": 2397,
+    "name": "Công ty Cổ phần Đại Thiên Lộc",
+    "webUrl": "www.daithienloc.com.vn"
+  },
+  "DTT": {
+    "id": 2229,
+    "name": "Công ty Cổ phần Kỹ nghệ Đô Thành",
+    "webUrl": "www.dothanhtech.com"
+  },
+  "DVP": {
+    "id": 2373,
+    "name": "Công ty Cổ phần Đầu tư và Phát triển Cảng Đình Vũ",
+    "webUrl": "www.dinhvuport.com.vn"
+  },
+  "DXG": {
+    "id": 2363,
+    "name": "Công ty Cổ phần Bluemarq Group",
+    "webUrl": "www.bluemarq.com"
+  },
+  "DXS": {
+    "id": 3702,
+    "name": "Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh",
+    "webUrl": "www.datxanhservices.vn"
+  },
+  "DXV": {
+    "id": 2318,
+    "name": "Công ty Cổ phần Vicem Vật liệu Xây dựng Đà Nẵng",
+    "webUrl": "www.coxiva.com.vn"
+  },
+  "ECO": {
+    "id": 7967,
+    "name": "Công ty Cổ phần Nhựa sinh thái Việt Nam",
+    "webUrl": "www.ecoplastic.com.vn"
+  },
+  "EIB": {
+    "id": 2294,
+    "name": "Ngân hàng Thương mại Cổ phần Xuất Nhập khẩu Việt Nam",
+    "webUrl": "www.eximbank.com.vn"
+  },
+  "ELC": {
+    "id": 2441,
+    "name": "Công ty Cổ phần Công nghệ - Viễn thông ELCOM",
+    "webUrl": "www.elcom.com.vn"
+  },
+  "EVE": {
+    "id": 2469,
+    "name": "Công ty Cổ phần Everpia",
+    "webUrl": "www.everpia.vn"
+  },
+  "EVF": {
+    "id": 3806,
+    "name": "Công ty Tài chính Tổng hợp Cổ phần Điện lực",
+    "webUrl": "www.evnfc.vn"
+  },
+  "EVG": {
+    "id": 2806,
+    "name": "Công ty Cổ phần Tập đoàn Everland",
+    "webUrl": "www.everland.vn"
+  },
+  "FCM": {
+    "id": 2516,
+    "name": "Công ty Cổ phần Bê tông Phan Vũ Hà Nam",
+    "webUrl": "www.phanvuhanam.com.vn"
+  },
+  "FCN": {
+    "id": 2487,
+    "name": "Công ty Cổ phần Tập đoàn FECON",
+    "webUrl": "www.fecon.com.vn"
+  },
+  "FDC": {
+    "id": 2356,
+    "name": "Công ty Cổ phần Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh",
+    "webUrl": "www.fidecovn.com"
+  },
+  "FIR": {
+    "id": 2825,
+    "name": "Công ty Cổ phần Địa ốc First Real",
+    "webUrl": "www.fir.vn"
+  },
+  "FIT": {
+    "id": 3112,
+    "name": "Công ty Cổ phần Tập đoàn F.I.T",
+    "webUrl": "www.fitgroup.com.vn"
+  },
+  "FMC": {
+    "id": 2178,
+    "name": "Công ty Cổ phần Thực phẩm Sao Ta",
+    "webUrl": "www.fimexvn.com"
+  },
+  "FPT": {
+    "id": 2129,
+    "name": "Công ty Cổ phần FPT",
+    "webUrl": "www.fpt.com.vn"
+  },
+  "FRT": {
+    "id": 2749,
+    "name": "Công ty Cổ phần Bán lẻ Kỹ thuật số FPT",
+    "webUrl": "http://frt.vn và www.fptshop.com.vn"
+  },
+  "FTS": {
+    "id": 3213,
+    "name": "Công ty Cổ phần Chứng khoán FPT",
+    "webUrl": "www.fpts.com.vn"
+  },
+  "GAS": {
+    "id": 2496,
+    "name": "Tổng Công ty Khí Việt Nam - Công ty Cổ phần",
+    "webUrl": "www.pvgas.com.vn"
+  },
+  "GDT": {
+    "id": 2297,
+    "name": "Công ty Cổ phần Chế biến Gỗ Đức Thành",
+    "webUrl": "www.goducthanh.com - www.winwintoys.com"
+  },
+  "GEE": {
+    "id": 4847,
+    "name": "Công ty Cổ phần Điện lực Gelex",
+    "webUrl": "www.gelex-electric.com"
+  },
+  "GEG": {
+    "id": 2811,
+    "name": "Công ty Cổ phần Điện Gia Lai",
+    "webUrl": "www.geccom.vn"
+  },
+  "GEL": {
+    "id": 7859,
+    "name": "Công ty Cổ phần Hạ tầng GELEX",
+    "webUrl": "https://gelex-infra.vn"
+  },
+  "GEX": {
+    "id": 3091,
+    "name": "Công ty Cổ phần Tập đoàn GELEX",
+    "webUrl": "www.gelex.vn"
+  },
+  "GHC": {
+    "id": 7600,
+    "name": "Công ty Cổ phần Thủy điện Gia Lai",
+    "webUrl": "https://ghc.vn"
+  },
+  "GIL": {
+    "id": 2157,
+    "name": "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh",
+    "webUrl": "http://www.gilimex.com"
+  },
+  "GMD": {
+    "id": 2163,
+    "name": "Công ty Cổ phần Tập đoàn GEMADEPT",
+    "webUrl": "www.gemadept.com.vn"
+  },
+  "GMH": {
+    "id": 3768,
+    "name": "Công ty Cổ phần Minh Hưng Quảng Trị",
+    "webUrl": "https://minhhungqt.vn/"
+  },
+  "GSP": {
+    "id": 2540,
+    "name": "Công ty Cổ phần Vận tải Sản phẩm Khí Quốc tế",
+    "webUrl": "www.gasshipping.com.vn"
+  },
+  "GTA": {
+    "id": 2276,
+    "name": "Công ty Cổ phần Chế biến Gỗ Thuận An",
+    "webUrl": "www.gothuanan.vn"
+  },
+  "GVR": {
+    "id": 3184,
+    "name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
+    "webUrl": "https://vrg.vn"
+  },
+  "HAG": {
+    "id": 2290,
+    "name": "Công ty Cổ phần Hoàng Anh Gia Lai",
+    "webUrl": "www.hagl.com.vn"
+  },
+  "HAH": {
+    "id": 2649,
+    "name": "Công ty Cổ phần Vận tải và Xếp dỡ Hải An",
+    "webUrl": "www.haiants.vn"
+  },
+  "HAP": {
+    "id": 2154,
+    "name": "Công ty Cổ phần Tập đoàn HAPACO",
+    "webUrl": "www.hapaco.com.vn"
+  },
+  "HAR": {
+    "id": 2494,
+    "name": "Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền",
+    "webUrl": "www.adtdgroup.com"
+  },
+  "HAS": {
+    "id": 2132,
+    "name": "Công ty Cổ phần HACISCO",
+    "webUrl": "www.has.vn"
+  },
+  "HAX": {
+    "id": 2196,
+    "name": "Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh",
+    "webUrl": "http://www.haxaco.com.vn"
+  },
+  "HCD": {
+    "id": 2434,
+    "name": "Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD",
+    "webUrl": "www.hcdgroup.com.vn"
+  },
+  "HCM": {
+    "id": 2314,
+    "name": "Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh",
+    "webUrl": "www.hsc.com.vn"
+  },
+  "HDB": {
+    "id": 2722,
+    "name": "Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh",
+    "webUrl": "www.hdbank.com.vn"
+  },
+  "HDC": {
+    "id": 2203,
+    "name": "Công ty Cổ phần Phát triển nhà Bà Rịa – Vũng Tàu",
+    "webUrl": "www.hodeco.vn"
+  },
+  "HDG": {
+    "id": 2401,
+    "name": "Công ty Cổ phần Tập đoàn Hà Đô",
+    "webUrl": "www.hado.com.vn"
+  },
+  "HHP": {
+    "id": 2740,
+    "name": "Công ty Cổ phần HHP Global",
+    "webUrl": "hhpglobaljsc.com"
+  },
+  "HHS": {
+    "id": 2509,
+    "name": "Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy",
+    "webUrl": "www.hoanghuyhhs.vn"
+  },
+  "HHV": {
+    "id": 3703,
+    "name": "Công ty Cổ phần Đầu tư Hạ tầng Giao thông Đèo Cả",
+    "webUrl": "http://hhv.com.vn"
+  },
+  "HID": {
+    "id": 2730,
+    "name": "Công ty Cổ phần Halcom Việt Nam",
+    "webUrl": "www.halcom.vn/ www.halcom.com.vn"
+  },
+  "HII": {
+    "id": 3142,
+    "name": "Công ty Cổ phần An Tiến Industries",
+    "webUrl": "www.antienindustries.com"
+  },
+  "HMC": {
+    "id": 2213,
+    "name": "Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel",
+    "webUrl": "www.metalhcm.com.vn"
+  },
+  "HNA": {
+    "id": 4373,
+    "name": "Công ty Cổ phần Thủy điện Hủa Na",
+    "webUrl": "http://huana.com.vn"
+  },
+  "HPA": {
+    "id": 7860,
+    "name": "Công ty Cổ phần Phát triển Nông nghiệp Hòa Phát",
+    "webUrl": "https://nongnghiep.hoaphat.com.vn"
+  },
+  "HPG": {
+    "id": 2458,
+    "name": "Công ty Cổ phần Tập đoàn Hòa Phát",
+    "webUrl": "www.hoaphat.com.vn"
+  },
+  "HPX": {
+    "id": 2657,
+    "name": "Công ty Cổ phần Đầu tư Hải Phát",
+    "webUrl": "www.haiphat.com.vn"
+  },
+  "HQC": {
+    "id": 2442,
+    "name": "Công ty Cổ phần Tư vấn – Thương mại – Dịch vụ Địa ốc Hoàng Quân",
+    "webUrl": "www.hoangquan.com.vn"
+  },
+  "HRC": {
+    "id": 2216,
+    "name": "Công ty Cổ phần Cao su Hòa Bình",
+    "webUrl": "www.horuco.com.vn"
+  },
+  "HSG": {
+    "id": 2265,
+    "name": "Công ty Cổ phần Tập đoàn Hoa Sen",
+    "webUrl": "http://www.hoasengroup.vn"
+  },
+  "HSL": {
+    "id": 2725,
+    "name": "Công ty Cổ phần Công nghệ sinh học Helios",
+    "webUrl": "https://hsl.vn"
+  },
+  "HT1": {
+    "id": 2231,
+    "name": "Công ty Cổ phần Xi măng VICEM Hà Tiên",
+    "webUrl": "www.vicemhatien.com.vn"
+  },
+  "HTG": {
+    "id": 4131,
+    "name": "Tổng Công ty Cổ phần Dệt may Hòa Thọ",
+    "webUrl": "www.hoatho.com.vn"
+  },
+  "HTI": {
+    "id": 2497,
+    "name": "Công ty Cổ phần Đầu tư Phát triển Hạ tầng IDICO",
+    "webUrl": "www.idico-idi.com.vn"
+  },
+  "HTL": {
+    "id": 2448,
+    "name": "Công ty Cổ phần Kỹ thuật và Ô tô Trường Long",
+    "webUrl": "www.truonglong.com"
+  },
+  "HTN": {
+    "id": 2823,
+    "name": "Công ty Cổ phần Hưng Thịnh Incons",
+    "webUrl": "www.hungthinhincons.com.vn"
+  },
+  "HTV": {
+    "id": 2197,
+    "name": "Công ty Cổ phần Logistics Vicem",
+    "webUrl": "www.vantaihatien.com.vn"
+  },
+  "HU1": {
+    "id": 2508,
+    "name": "Công ty Cổ phần Đầu tư và Xây dựng HUD1",
+    "webUrl": "www.hud1.com.vn"
+  },
+  "HUB": {
+    "id": 3165,
+    "name": "Công ty Cổ phần Xây lắp Thừa Thiên Huế",
+    "webUrl": "www.xaylaphue.com.vn"
+  },
+  "HVH": {
+    "id": 2874,
+    "name": "Công ty Cổ phần Đầu tư và Công nghệ HVC",
+    "webUrl": "www.hvcgroup.net"
+  },
+  "HVN": {
+    "id": 2837,
+    "name": "Tổng Công ty Hàng không Việt Nam - CTCP",
+    "webUrl": "www.vietnamairlines.com"
+  },
+  "ICT": {
+    "id": 2653,
+    "name": "Công ty Cổ phần Viễn thông - Tin học Bưu điện",
+    "webUrl": "www.ctin.vn"
+  },
+  "IDI": {
+    "id": 2450,
+    "name": "Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I",
+    "webUrl": "www.idiseafood.com"
+  },
+  "IJC": {
+    "id": 2407,
+    "name": "Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật",
+    "webUrl": "www.becamexijc.com"
+  },
+  "ILB": {
+    "id": 2830,
+    "name": "Công ty Cổ phần ICD Tân Cảng - Long Bình",
+    "webUrl": "www.icdlongbinh.com"
+  },
+  "IMP": {
+    "id": 2140,
+    "name": "Công ty Cổ phần Dược phẩm Imexpharm",
+    "webUrl": "www.imexpharm.com"
+  },
+  "ITC": {
+    "id": 2254,
+    "name": "Công ty Cổ phần Đầu tư - Kinh doanh Nhà",
+    "webUrl": "www.intresco.com.vn"
+  },
+  "ITD": {
+    "id": 2545,
+    "name": "Công ty Cổ phần Công nghệ ITD",
+    "webUrl": "www.itd.com.vn"
+  },
+  "JVC": {
+    "id": 2477,
+    "name": "Công ty Cổ phần Đầu tư và Phát triển Y tế Việt Nhật",
+    "webUrl": "https://ytevietnhat.com.vn"
+  },
+  "KBC": {
+    "id": 2361,
+    "name": "Tổng Công ty Phát triển Đô Thị Kinh Bắc – Công ty Cổ phần",
+    "webUrl": "http://www.kinhbaccity.vn"
+  },
+  "KDC": {
+    "id": 2230,
+    "name": "Công ty Cổ phần Tập đoàn Kido",
+    "webUrl": "www.kdc.vn"
+  },
+  "KDH": {
+    "id": 2312,
+    "name": "Công ty Cổ phần Đầu tư và Kinh doanh nhà Khang Điền",
+    "webUrl": "www.khangdien.com.vn"
+  },
+  "KHG": {
+    "id": 3719,
+    "name": "Công ty Cổ phần Tập đoàn Khải Hoàn Land",
+    "webUrl": "https://www.khaihoanland.vn/"
+  },
+  "KHP": {
+    "id": 2173,
+    "name": "Công ty Cổ phần Điện lực Khánh Hòa",
+    "webUrl": "https://pckhanhhoa.cpc.vn"
+  },
+  "KLB": {
+    "id": 7331,
+    "name": "Ngân hàng Thương mại Cổ phần Kiên Long",
+    "webUrl": "www.kienlongbank.com"
+  },
+  "KMR": {
+    "id": 2302,
+    "name": "Công ty Cổ phần MIRAE",
+    "webUrl": "www.miraejsc.com"
+  },
+  "KOS": {
+    "id": 2223,
+    "name": "Công ty Cổ phần KOSY",
+    "webUrl": "www.kosy.vn"
+  },
+  "KSB": {
+    "id": 2347,
+    "name": "Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương",
+    "webUrl": "www.ksb.vn"
+  },
+  "L10": {
+    "id": 2258,
+    "name": "Công ty Cổ phần Lilama 10",
+    "webUrl": "www.lilama10.com.vn"
+  },
+  "LAF": {
+    "id": 2156,
+    "name": "Công ty Cổ phần Chế biến Hàng xuất khẩu Long An",
+    "webUrl": "www.lafooco.vn"
+  },
+  "LBM": {
+    "id": 2166,
+    "name": "Công ty Cổ phần Khoáng sản và Vật liệu Xây dựng Lâm Đồng",
+    "webUrl": "lbm-vn.vn"
+  },
+  "LCG": {
+    "id": 2327,
+    "name": "Công ty Cổ phần Lizen",
+    "webUrl": "www.lizen.vn"
+  },
+  "LDG": {
+    "id": 2671,
+    "name": "Công ty Cổ phần Đầu tư LDG",
+    "webUrl": "www.ldggroup.com.vn"
+  },
+  "LGC": {
+    "id": 2171,
+    "name": "Công ty Cổ phần Đầu tư Cầu Đường CII",
+    "webUrl": "www.ciibr.com.vn"
+  },
+  "LGL": {
+    "id": 2379,
+    "name": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Long Giang",
+    "webUrl": "https://www.longgiangland.com.vn"
+  },
+  "LHG": {
+    "id": 2391,
+    "name": "Công ty Cổ phần Long Hậu",
+    "webUrl": "www.longhau.com.vn"
+  },
+  "LIX": {
+    "id": 2304,
+    "name": "Công ty Cổ phần LIX",
+    "webUrl": "www.lixco.com"
+  },
+  "LM8": {
+    "id": 2421,
+    "name": "Công ty Cổ phần Lilama 18",
+    "webUrl": "www.lilama18.com.vn"
+  },
+  "LPB": {
+    "id": 2955,
+    "name": "Ngân hàng Thương mại Cổ phần Lộc Phát Việt Nam",
+    "webUrl": "www.lpbank.com.vn"
+  },
+  "LPS": {
+    "id": 8399,
+    "name": "Công ty Cổ phần Chứng khoán LPS",
+    "webUrl": "https://www.lpbs.com.vn"
+  },
+  "LSS": {
+    "id": 2243,
+    "name": "Công ty Cổ phần Mía đường Lam Sơn",
+    "webUrl": "www.lasuco.vn"
+  },
+  "MBB": {
+    "id": 2481,
+    "name": "Ngân hàng Thương mại Cổ phần Quân Đội",
+    "webUrl": "www.mbbank.com.vn"
+  },
+  "MCH": {
+    "id": 7519,
+    "name": "Công ty Cổ phần Hàng tiêu dùng Masan",
+    "webUrl": "www.masanconsumer.com"
+  },
+  "MCM": {
+    "id": 4421,
+    "name": "Công ty Cổ phần Giống bò sữa Mộc Châu",
+    "webUrl": "www.mcmilk.com.vn"
+  },
+  "MCP": {
+    "id": 2152,
+    "name": "Công ty Cổ phần In và Bao bì Mỹ Châu",
+    "webUrl": "www.mychau.com.vn"
+  },
+  "MDG": {
+    "id": 2498,
+    "name": "Công ty Cổ phần Miền Đông",
+    "webUrl": "www.miendong.com.vn"
+  },
+  "MHC": {
+    "id": 2187,
+    "name": "Công ty Cổ phần MHC",
+    "webUrl": "www.mhc.vn"
+  },
+  "MIG": {
+    "id": 2768,
+    "name": "Tổng Công ty Cổ phần Bảo hiểm Quân đội",
+    "webUrl": "www.mic.vn"
+  },
+  "MSB": {
+    "id": 3027,
+    "name": "Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam",
+    "webUrl": "www.msb.com.vn"
+  },
+  "MSH": {
+    "id": 2829,
+    "name": "Công ty Cổ phần May Sông Hồng",
+    "webUrl": "www.songhong.vn"
+  },
+  "MSN": {
+    "id": 2462,
+    "name": "Công ty Cổ phần Tập đoàn MaSan",
+    "webUrl": "www.masangroup.com"
+  },
+  "MWG": {
+    "id": 2465,
+    "name": "Công ty Cổ phần Đầu tư Thế Giới Di Động",
+    "webUrl": "www.mwg.vn"
+  },
+  "MZG": {
+    "id": 7655,
+    "name": "Công ty Cổ phần Miza",
+    "webUrl": "www.miza.vn"
+  },
+  "NAB": {
+    "id": 4022,
+    "name": "Ngân hàng Thương mại Cổ phần Nam Á",
+    "webUrl": "www.namabank.com.vn"
+  },
+  "NAF": {
+    "id": 3068,
+    "name": "Công ty Cổ phần Nafoods Group",
+    "webUrl": "www.nafoods.com"
+  },
+  "NAV": {
+    "id": 2185,
+    "name": "Công ty Cổ phần Nam Việt",
+    "webUrl": "www.navifico.vn"
+  },
+  "NBB": {
+    "id": 2305,
+    "name": "Công ty Cổ phần Đầu tư Năm Bảy Bảy",
+    "webUrl": "www.nbb.com.vn"
+  },
+  "NCT": {
+    "id": 2648,
+    "name": "Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài",
+    "webUrl": "www.ncts.vn"
+  },
+  "NHA": {
+    "id": 3111,
+    "name": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội",
+    "webUrl": "www.namhanoi.com.vn"
+  },
+  "NHH": {
+    "id": 2670,
+    "name": "Công ty Cổ phần Nhựa Hà Nội",
+    "webUrl": "www.hanoiplastics.com.vn"
+  },
+  "NHT": {
+    "id": 3720,
+    "name": "Công ty Cổ phần Sản xuất và Thương mại Nam Hoa",
+    "webUrl": "https://namhoatoys.vn/"
+  },
+  "NKG": {
+    "id": 2332,
+    "name": "Công ty Cổ phần Thép Nam Kim",
+    "webUrl": "https://tonnamkim.com"
+  },
+  "NLG": {
+    "id": 2515,
+    "name": "Công ty Cổ phần Đầu tư Nam Long",
+    "webUrl": "www.namlongvn.com"
+  },
+  "NNC": {
+    "id": 2296,
+    "name": "Công ty Cổ phần Đá Núi Nhỏ",
+    "webUrl": "www.nuinho.vn"
+  },
+  "NO1": {
+    "id": 4062,
+    "name": "Công ty Cổ phần Tập đoàn 911",
+    "webUrl": "www.911group.com.vn"
+  },
+  "NSC": {
+    "id": 2168,
+    "name": "Công ty Cổ phần Tập đoàn Giống cây trồng Việt Nam",
+    "webUrl": "www.vinaseed.com.vn"
+  },
+  "NT2": {
+    "id": 2805,
+    "name": "Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2",
+    "webUrl": "www.pvpnt2.vn"
+  },
+  "NTC": {
+    "id": 7051,
+    "name": "Công ty Cổ phần Khu công Nghiệp Nam Tân Uyên",
+    "webUrl": "www.namtanuyen.com.vn"
+  },
+  "NTL": {
+    "id": 2235,
+    "name": "Công ty Cổ phần Phát triển Đô thị Từ Liêm",
+    "webUrl": "www.lideco.vn"
+  },
+  "NVL": {
+    "id": 2219,
+    "name": "Công ty Cổ phần Tập đoàn Đầu tư Địa ốc No Va",
+    "webUrl": "www.novaland.com.vn"
+  },
+  "NVT": {
+    "id": 2412,
+    "name": "Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay",
+    "webUrl": "www.ninhvanbay.vn"
+  },
+  "OCB": {
+    "id": 3117,
+    "name": "Ngân hàng Thương mại Cổ phần Phương Đông",
+    "webUrl": "www.ocb.com.vn"
+  },
+  "OGC": {
+    "id": 2393,
+    "name": "Công ty Cổ phần Tập đoàn Đại Dương",
+    "webUrl": "www.oceangroup.vn"
+  },
+  "OPC": {
+    "id": 2325,
+    "name": "Công ty Cổ phần Dược phẩm OPC",
+    "webUrl": "http://www.opcpharma.com"
+  },
+  "ORS": {
+    "id": 3744,
+    "name": "Công ty Cổ phần Chứng khoán Tiên Phong",
+    "webUrl": "https://tpbs.com.vn"
+  },
+  "PAC": {
+    "id": 2138,
+    "name": "Công ty Cổ phần Pin Ắc quy miền Nam",
+    "webUrl": "www.pinaco.com.vn"
+  },
+  "PAN": {
+    "id": 2438,
+    "name": "Công ty Cổ phần Tập đoàn PAN",
+    "webUrl": "www.thepangroup.vn"
+  },
+  "PC1": {
+    "id": 2752,
+    "name": "Công ty Cổ phần Tập đoàn PC1",
+    "webUrl": "www.pc1group.vn"
+  },
+  "PDN": {
+    "id": 2478,
+    "name": "Công ty Cổ phần Cảng Đồng Nai",
+    "webUrl": "www.dongnai-port.com"
+  },
+  "PDR": {
+    "id": 2447,
+    "name": "Công ty Cổ phần Phát triển Bất động sản Phát Đạt",
+    "webUrl": "www.phatdat.com.vn"
+  },
+  "PDV": {
+    "id": 4820,
+    "name": "Công ty Cổ phần Vận tải và Tiếp vận Phương Đông Việt",
+    "webUrl": "www.pvtlogistics.vn"
+  },
+  "PET": {
+    "id": 2238,
+    "name": "Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí",
+    "webUrl": "www.petrosetco.com.vn"
+  },
+  "PGC": {
+    "id": 2139,
+    "name": "Tổng Công ty Gas Petrolimex - Công ty Cổ phần",
+    "webUrl": "www.pgas.petrolimex.com.vn"
+  },
+  "PGD": {
+    "id": 2383,
+    "name": "Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam",
+    "webUrl": "www.pvgasd.com.vn"
+  },
+  "PGI": {
+    "id": 2512,
+    "name": "Tổng Công ty Cổ phần Bảo hiểm Petrolimex",
+    "webUrl": "www.pjico.com.vn"
+  },
+  "PGV": {
+    "id": 3745,
+    "name": "Tổng Công ty Phát điện 3 - Công ty Cổ phần",
+    "webUrl": "www.genco3.com"
+  },
+  "PHC": {
+    "id": 3189,
+    "name": "Công ty Cổ phần Xây dựng Phục Hưng Holdings",
+    "webUrl": "www.phuchung.com.vn"
+  },
+  "PHR": {
+    "id": 2248,
+    "name": "Công ty Cổ phần Cao su Phước Hòa",
+    "webUrl": "www.phr.vn"
+  },
+  "PIT": {
+    "id": 2275,
+    "name": "Công ty Cổ phần Xuất nhập khẩu Petrolimex",
+    "webUrl": "www.pitco.com.vn"
+  },
+  "PJT": {
+    "id": 2151,
+    "name": "Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex",
+    "webUrl": "www.pjtaco.petrolimex.com.vn"
+  },
+  "PLP": {
+    "id": 3162,
+    "name": "Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê",
+    "webUrl": "www.phaleplastics.com.vn"
+  },
+  "PLX": {
+    "id": 2720,
+    "name": "Tập đoàn Xăng dầu Việt Nam",
+    "webUrl": "www.petrolimex.com.vn"
+  },
+  "PMG": {
+    "id": 2815,
+    "name": "Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung",
+    "webUrl": "www.petrocenter.com.vn"
+  },
+  "PNC": {
+    "id": 2164,
+    "name": "Công ty Cổ phần Văn hóa Phương Nam",
+    "webUrl": "www.pnc.com.vn"
+  },
+  "PNJ": {
+    "id": 2310,
+    "name": "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận",
+    "webUrl": "www.pnj.com.vn"
+  },
+  "POW": {
+    "id": 2717,
+    "name": "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP",
+    "webUrl": "www.pvpower.vn"
+  },
+  "PPC": {
+    "id": 2273,
+    "name": "Công ty Cổ phần Nhiệt điện Phả Lại",
+    "webUrl": "www.ppc.evn.vn"
+  },
+  "PTB": {
+    "id": 2543,
+    "name": "Công ty Cổ phần Phú Tài",
+    "webUrl": "www.phutai.com.vn"
+  },
+  "PTC": {
+    "id": 2298,
+    "name": "Công ty Cổ phần Đầu tư iCapital",
+    "webUrl": "www.ptic.vn"
+  },
+  "PTL": {
+    "id": 2428,
+    "name": "Công ty Cổ phần Victory Group",
+    "webUrl": "https://victorygroup.vn"
+  },
+  "PVD": {
+    "id": 2170,
+    "name": "Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí",
+    "webUrl": "www.pvdrilling.com.vn"
+  },
+  "PVP": {
+    "id": 3952,
+    "name": "Công ty Cổ phần Vận tải Dầu khí Thái Bình Dương",
+    "webUrl": "https://pvtranspacific.com"
+  },
+  "PVT": {
+    "id": 2234,
+    "name": "Tổng Công ty Cổ phần Vận tải Dầu khí",
+    "webUrl": "www.pvtrans.com"
+  },
+  "QCG": {
+    "id": 2436,
+    "name": "Công ty Cổ phần Quốc Cường Gia Lai",
+    "webUrl": "www.quoccuonggialai.com.vn"
+  },
+  "QNP": {
+    "id": 3916,
+    "name": "Công ty Cổ phần Cảng Quy Nhơn",
+    "webUrl": "http://quynhonport.vn"
+  },
+  "RAL": {
+    "id": 2177,
+    "name": "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông",
+    "webUrl": "https://rangdong.com.vn"
+  },
+  "REE": {
+    "id": 2176,
+    "name": "Công ty Cổ phần Cơ Điện Lạnh",
+    "webUrl": "www.reecorp.com"
+  },
+  "RYG": {
+    "id": 4681,
+    "name": "Công ty Cổ phần Sản xuất và Đầu tư Hoàng Gia",
+    "webUrl": "www.royalties.vn"
+  },
+  "S4A": {
+    "id": 2431,
+    "name": "Công ty Cổ phần Thủy điện Sê San 4A",
+    "webUrl": "www.sesan4a.com.vn"
+  },
+  "SAB": {
+    "id": 3140,
+    "name": "Tổng Công ty Cổ phần Bia – Rượu – Nước giải khát Sài Gòn",
+    "webUrl": "www.sabeco.com.vn"
+  },
+  "SAM": {
+    "id": 2179,
+    "name": "Công ty Cổ phần SAM Holdings",
+    "webUrl": "www.samholdings.com.vn"
+  },
+  "SAV": {
+    "id": 2221,
+    "name": "Công ty Cổ phần Hợp tác Kinh tế và Xuất nhập khẩu Savimex",
+    "webUrl": "www.savimex.com.vn"
+  },
+  "SBA": {
+    "id": 2423,
+    "name": "Công ty Cổ phần Sông Ba",
+    "webUrl": "www.songba.vn"
+  },
+  "SBG": {
+    "id": 3648,
+    "name": "Công ty Cổ phần Tập đoàn Cơ khí Công nghệ cao Siba",
+    "webUrl": "https://siba.com.vn"
+  },
+  "SBT": {
+    "id": 2301,
+    "name": "Công ty Cổ phần Thành Thành Công - Biên Hòa",
+    "webUrl": "http://ttcagris.com.vn"
+  },
+  "SBV": {
+    "id": 2472,
+    "name": "Công ty Cổ phần Siam Brothers Việt Nam",
+    "webUrl": "www.siambrothersvn.com"
+  },
+  "SC5": {
+    "id": 2501,
+    "name": "Công ty Cổ phần Xây dựng Số 5",
+    "webUrl": "www.sc5.vn"
+  },
+  "SCR": {
+    "id": 2697,
+    "name": "Công ty Cổ phần Địa ốc Sài Gòn Thương Tín",
+    "webUrl": "http://ttcland.vn"
+  },
+  "SCS": {
+    "id": 3130,
+    "name": "Công ty Cổ phần Dịch vụ Hàng hóa Sài Gòn",
+    "webUrl": "www.scsc.vn"
+  },
+  "SFC": {
+    "id": 2500,
+    "name": "Công ty Cổ phần Nhiên liệu Sài Gòn",
+    "webUrl": "www.sfc.com.vn"
+  },
+  "SFG": {
+    "id": 2646,
+    "name": "Công ty Cổ phần Phân bón Miền Nam",
+    "webUrl": "www.phanbonmiennam.com.vn"
+  },
+  "SFI": {
+    "id": 2202,
+    "name": "Công ty Cổ phần Đại lý Vận tải SAFI",
+    "webUrl": "www.safi.com.vn"
+  },
+  "SGN": {
+    "id": 3175,
+    "name": "Công ty Cổ phần Phục vụ Mặt đất Sài Gòn",
+    "webUrl": "www.sags.vn"
+  },
+  "SGR": {
+    "id": 3214,
+    "name": "Công ty Cổ phần Tổng Công ty Cổ phần Địa ốc Sài Gòn",
+    "webUrl": "www.saigonres.com.vn"
+  },
+  "SGT": {
+    "id": 2244,
+    "name": "Công ty Cổ phần Công nghệ Viễn thông Sài Gòn",
+    "webUrl": "www.saigontel.com"
+  },
+  "SHA": {
+    "id": 2693,
+    "name": "Công ty Cổ phần Sơn Hà Sài Gòn",
+    "webUrl": "www.sonhasg.com.vn"
+  },
+  "SHB": {
+    "id": 3793,
+    "name": "Ngân hàng Thương mại Cổ phần Sài Gòn – Hà Nội",
+    "webUrl": "https://www.shb.com.vn"
+  },
+  "SHI": {
+    "id": 2346,
+    "name": "Công ty Cổ phần Quốc tế Sơn Hà",
+    "webUrl": "www.sonha.com.vn"
+  },
+  "SHP": {
+    "id": 2675,
+    "name": "Công ty Cổ phần Thủy điện Miền Nam",
+    "webUrl": "www.shp.vn"
+  },
+  "SIP": {
+    "id": 4197,
+    "name": "Công ty Cổ phần Đầu tư Sài Gòn VRG",
+    "webUrl": "www.saigonvrg.com.vn"
+  },
+  "SJD": {
+    "id": 2286,
+    "name": "Công ty Cổ phần Thủy điện Cần Đơn",
+    "webUrl": "http://www.candon.com.vn"
+  },
+  "SJS": {
+    "id": 2270,
+    "name": "Công ty Cổ phần SJ Group",
+    "webUrl": "www.sjgroups.com.vn"
+  },
+  "SKG": {
+    "id": 2674,
+    "name": "Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang",
+    "webUrl": "www.superdong.com.vn"
+  },
+  "SMA": {
+    "id": 2440,
+    "name": "Công ty Cổ phần Thiết bị Phụ tùng Sài Gòn",
+    "webUrl": "https://thuydiendakglun.vcpholdings.com.vn/"
+  },
+  "SMB": {
+    "id": 2724,
+    "name": "Công ty Cổ phần Bia Sài Gòn - Miền Trung",
+    "webUrl": "www.biasaigonmt.com"
+  },
+  "SMC": {
+    "id": 2136,
+    "name": "Công ty Cổ phần Đầu tư Thương mại SMC",
+    "webUrl": "www.smc.vn"
+  },
+  "SPM": {
+    "id": 2415,
+    "name": "Công ty Cổ phần S.P.M",
+    "webUrl": "www.spm.com.vn"
+  },
+  "SRC": {
+    "id": 2255,
+    "name": "Công ty Cổ phần Cao su Sao Vàng",
+    "webUrl": "www.src.com.vn"
+  },
+  "SRF": {
+    "id": 2295,
+    "name": "Công ty Cổ phần Searefico",
+    "webUrl": "www.searefico.com"
+  },
+  "SSB": {
+    "id": 2868,
+    "name": "Ngân hàng Thương mại Cổ phần Đông Nam Á",
+    "webUrl": "www.seabank.com.vn"
+  },
+  "SSC": {
+    "id": 2159,
+    "name": "Công ty Cổ phần Giống Cây trồng Miền Nam",
+    "webUrl": "www.ssc.com.vn"
+  },
+  "SSI": {
+    "id": 2204,
+    "name": "Công ty Cổ phần Chứng khoán SSI",
+    "webUrl": "www.ssi.com.vn"
+  },
+  "ST8": {
+    "id": 2207,
+    "name": "Công ty Cổ phần Tập đoàn ST8",
+    "webUrl": "www.st8.vn"
+  },
+  "STB": {
+    "id": 2271,
+    "name": "Ngân hàng Thương mại Cổ phần Sài Gòn Tài Lộc",
+    "webUrl": "www.sacombank.com"
+  },
+  "STG": {
+    "id": 2416,
+    "name": "Công ty Cổ phần Kho vận Miền Nam",
+    "webUrl": "sotransgroup.vn"
+  },
+  "STK": {
+    "id": 2726,
+    "name": "Công ty Cổ phần Sợi Thế Kỷ",
+    "webUrl": "www.theky.vn"
+  },
+  "SVC": {
+    "id": 2315,
+    "name": "Công ty Cổ phần Dịch vụ Tổng hợp Sài Gòn",
+    "webUrl": "www.savico.com.vn"
+  },
+  "SVD": {
+    "id": 2911,
+    "name": "Công ty Cổ phần Đầu tư & Thương mại Vũ Đăng",
+    "webUrl": "https://vudang.vn"
+  },
+  "SVT": {
+    "id": 2476,
+    "name": "Công ty Cổ phần Công nghệ Sài Gòn Viễn Đông",
+    "webUrl": "http://www.savitechco.com.vn"
+  },
+  "SZC": {
+    "id": 3076,
+    "name": "Công ty Cổ phần Sonadezi Châu Đức",
+    "webUrl": "www.sonadezichauduc.com.vn"
+  },
+  "SZL": {
+    "id": 2306,
+    "name": "Công ty Cổ phần Sonadezi Long Thành",
+    "webUrl": "www.szl.com.vn"
+  },
+  "TAL": {
+    "id": 6893,
+    "name": "Công ty Cổ phần Đầu tư Bất động sản Taseco",
+    "webUrl": "www.tasecoland.vn"
+  },
+  "TBC": {
+    "id": 2250,
+    "name": "Công ty Cổ phần Thủy điện Thác Bà",
+    "webUrl": "www.thacba.vn"
+  },
+  "TCB": {
+    "id": 2779,
+    "name": "Ngân hàng Thương mại Cổ phần Kỹ Thương Việt Nam",
+    "webUrl": "www.techcombank.com.vn"
+  },
+  "TCH": {
+    "id": 2696,
+    "name": "Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy",
+    "webUrl": "www.hoanghuy.vn"
+  },
+  "TCI": {
+    "id": 3910,
+    "name": "Công ty Cổ phần Chứng khoán Thành Công",
+    "webUrl": "http://tcsc.vn"
+  },
+  "TCL": {
+    "id": 2333,
+    "name": "Công ty Cổ phần Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng",
+    "webUrl": "www.tancanglogistics.com"
+  },
+  "TCM": {
+    "id": 2502,
+    "name": "Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công",
+    "webUrl": "www.thanhcong.com.vn"
+  },
+  "TCO": {
+    "id": 2484,
+    "name": "Công ty Cổ phần Janus Group",
+    "webUrl": "https://Janusgroup.vn"
+  },
+  "TCR": {
+    "id": 2211,
+    "name": "Công ty Cổ phần Công nghiệp Gốm sứ TAICERA",
+    "webUrl": "www.taicera.com"
+  },
+  "TCT": {
+    "id": 2824,
+    "name": "Công ty Cổ phần Cáp treo Núi Bà Tây Ninh",
+    "webUrl": "www.catour.com.vn"
+  },
+  "TCX": {
+    "id": 7391,
+    "name": "Công ty Cổ phần Chứng khoán Kỹ Thương",
+    "webUrl": "www.tcbs.com.vn"
+  },
+  "TDC": {
+    "id": 2408,
+    "name": "Công ty Cổ phần Kinh doanh và Phát triển Bình Dương",
+    "webUrl": "www.becamextdc.com.vn"
+  },
+  "TDG": {
+    "id": 3221,
+    "name": "Công ty Cổ phần Đầu tư TDG GLOBAL",
+    "webUrl": "www.thaiduongpetrol.vn"
+  },
+  "TDH": {
+    "id": 2228,
+    "name": "Công ty Cổ phần Phát triển Nhà Thủ Đức",
+    "webUrl": "http://thuduchouse.vn"
+  },
+  "TDM": {
+    "id": 2492,
+    "name": "Công ty Cổ phần Nước Thủ Dầu Một",
+    "webUrl": "http://www.tdmwater.vn"
+  },
+  "TDP": {
+    "id": 2742,
+    "name": "Công ty Cổ phần Thuận Đức",
+    "webUrl": "https://thuanducjsc.vn"
+  },
+  "TDW": {
+    "id": 2446,
+    "name": "Công ty Cổ phần Cấp nước Thủ Đức",
+    "webUrl": "www.thuducwater.vn"
+  },
+  "TEG": {
+    "id": 2802,
+    "name": "Công ty Cổ phần Trường Thành Energy Group",
+    "webUrl": "https://tteg.vn"
+  },
+  "THG": {
+    "id": 2544,
+    "name": "Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang",
+    "webUrl": "www.ticco.com.vn"
+  },
+  "TIP": {
+    "id": 2818,
+    "name": "Công ty Cổ phần Phát triển Khu Công nghiệp Tín Nghĩa",
+    "webUrl": "www.www.tinnghiaip.com.vn"
+  },
+  "TIX": {
+    "id": 2374,
+    "name": "Công ty Cổ phần Sản xuất Kinh doanh XNK Dịch vụ và Đầu tư Tân Bình",
+    "webUrl": "www.tanimex.com.vn"
+  },
+  "TLD": {
+    "id": 3212,
+    "name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long",
+    "webUrl": "http://thanglongdeco.com"
+  },
+  "TLG": {
+    "id": 2403,
+    "name": "Công ty Cổ phần Tập đoàn Thiên Long",
+    "webUrl": "www.thienlonggroup.com"
+  },
+  "TLH": {
+    "id": 2404,
+    "name": "Công ty Cổ phần Tập đoàn Thép Tiến Lên",
+    "webUrl": "www.tienlensteel.com.vn"
+  },
+  "TMP": {
+    "id": 2313,
+    "name": "Công ty Cổ phần Thủy điện Thác Mơ",
+    "webUrl": "www.tmhpp.com.vn"
+  },
+  "TMS": {
+    "id": 2155,
+    "name": "Công ty Cổ phần Transimex",
+    "webUrl": "www.transimex.com.vn"
+  },
+  "TMT": {
+    "id": 2366,
+    "name": "Công ty Cổ phần Ô tô TMT",
+    "webUrl": "www.tmt-vietnam.com.vn"
+  },
+  "TN1": {
+    "id": 2831,
+    "name": "Công ty Cổ phần ROX Key Holdings",
+    "webUrl": "https://roxkey.vn"
+  },
+  "TNC": {
+    "id": 2319,
+    "name": "Công ty Cổ phần Cao su Thống Nhất",
+    "webUrl": "www.trc.com.vn"
+  },
+  "TNH": {
+    "id": 3018,
+    "name": "Công ty Cổ phần Tập đoàn Bệnh viện TNH",
+    "webUrl": "https://tnh.com.vn"
+  },
+  "TNI": {
+    "id": 2793,
+    "name": "Công ty Cổ phần Tập đoàn Thành Nam",
+    "webUrl": "https://thanhnamgroup.com.vn"
+  },
+  "TNT": {
+    "id": 2388,
+    "name": "Công ty Cổ phần Tập đoàn TNT",
+    "webUrl": "https://tnt-group.vn"
+  },
+  "TPB": {
+    "id": 2817,
+    "name": "Ngân hàng Thương mại Cổ phần Tiên Phong",
+    "webUrl": "www.tpb.vn"
+  },
+  "TPC": {
+    "id": 2260,
+    "name": "Công ty Cổ phần Nhựa Tân Đại Hưng",
+    "webUrl": "www.tandaihungplastic.com"
+  },
+  "TRA": {
+    "id": 2330,
+    "name": "Công ty Cổ phần Traphaco",
+    "webUrl": "www.traphaco.com.vn"
+  },
+  "TRC": {
+    "id": 2277,
+    "name": "Công ty Cổ phần Cao su Tây Ninh",
+    "webUrl": "www.taniruco.com"
+  },
+  "TSA": {
+    "id": 6991,
+    "name": "Công ty Cổ phần Đầu tư và Xây lắp Trường Sơn",
+    "webUrl": "http://truongsonhn.com.vn"
+  },
+  "TSC": {
+    "id": 2278,
+    "name": "Công ty Cổ phần Vật tư Kỹ thuật Nông nghiệp Cần Thơ",
+    "webUrl": "www.tsccantho.com.vn"
+  },
+  "TTA": {
+    "id": 3062,
+    "name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành",
+    "webUrl": "http://www.truongthanhgroup.com.vn"
+  },
+  "TTE": {
+    "id": 2716,
+    "name": "Công ty Cổ phần Đầu tư Năng lượng Trường Thịnh",
+    "webUrl": "www.dientruongthinh.vn"
+  },
+  "TTF": {
+    "id": 2417,
+    "name": "Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành",
+    "webUrl": "www.truongthanh.com"
+  },
+  "TV2": {
+    "id": 2664,
+    "name": "Công ty Cổ phần Tư vấn Xây dựng Điện 2",
+    "webUrl": "www.pecc2.com"
+  },
+  "TVB": {
+    "id": 3173,
+    "name": "Công ty Cổ phần Chứng khoán T-Cap",
+    "webUrl": "https://tcap.vn"
+  },
+  "TVS": {
+    "id": 2647,
+    "name": "Công ty Cổ phần Chứng khoán Thiên Việt",
+    "webUrl": "www.tvs.vn"
+  },
+  "TVT": {
+    "id": 2792,
+    "name": "Tổng Công ty Việt Thắng - CTCP",
+    "webUrl": "www.vietthang.com.vn"
+  },
+  "TYA": {
+    "id": 2162,
+    "name": "Công ty Cổ phần Dây và Cáp điện Taya Việt Nam",
+    "webUrl": "www.taya.com.vn"
+  },
+  "UIC": {
+    "id": 2459,
+    "name": "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị IDICO",
+    "webUrl": "www.udico.com.vn"
+  },
+  "VAB": {
+    "id": 6972,
+    "name": "Ngân hàng Thương mại Cổ phần Việt Á",
+    "webUrl": "https://vietabank.com.vn"
+  },
+  "VBB": {
+    "id": 7939,
+    "name": "Ngân hàng TMCP Việt Nam Thương Tín",
+    "webUrl": "www.vietbank.com.vn"
+  },
+  "VCA": {
+    "id": 3077,
+    "name": "Công ty Cổ phần Thép VICASA",
+    "webUrl": "wvvw.vicasasteel.com"
+  },
+  "VCB": {
+    "id": 2293,
+    "name": "Ngân hàng Thương mại Cổ phần Ngoại Thương Việt Nam",
+    "webUrl": "https://www.vietcombank.com.vn"
+  },
+  "VCF": {
+    "id": 2370,
+    "name": "Công ty Cổ phần VINACAFÉ Biên Hòa",
+    "webUrl": "www.vinacafebienhoa.com"
+  },
+  "VCG": {
+    "id": 3104,
+    "name": "Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam",
+    "webUrl": "http://www.vinaconex.com.vn"
+  },
+  "VCI": {
+    "id": 2809,
+    "name": "Công ty Cổ phần Chứng khoán Vietcap",
+    "webUrl": "www.vietcap.com.vn"
+  },
+  "VCK": {
+    "id": 7620,
+    "name": "Công ty Cổ phần Chứng khoán VPS",
+    "webUrl": "www.vps.com.vn"
+  },
+  "VDP": {
+    "id": 3210,
+    "name": "Công ty Cổ phần Dược phẩm Trung Ương Vidipha",
+    "webUrl": "www.vidipha.com.vn"
+  },
+  "VDS": {
+    "id": 3179,
+    "name": "Công ty Cổ phần Chứng khoán Rồng Việt",
+    "webUrl": "www.vdsc.com.vn"
+  },
+  "VFG": {
+    "id": 2360,
+    "name": "Công ty Cổ phần Khử trùng Việt Nam",
+    "webUrl": "www.vfc.com.vn"
+  },
+  "VGC": {
+    "id": 3217,
+    "name": "Tổng Công ty Viglacera - CTCP",
+    "webUrl": "http://www.viglacera.com.vn"
+  },
+  "VHC": {
+    "id": 2259,
+    "name": "Công ty Cổ phần Vĩnh Hoàn",
+    "webUrl": "http://www.vinhhoan.com"
+  },
+  "VHM": {
+    "id": 2676,
+    "name": "Công ty Cổ phần Vinhomes",
+    "webUrl": "https://vinhomes.vn"
+  },
+  "VIB": {
+    "id": 3026,
+    "name": "Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam",
+    "webUrl": "www.vib.com.vn"
+  },
+  "VIC": {
+    "id": 2239,
+    "name": "Tập đoàn Vingroup - Công ty Cổ phần",
+    "webUrl": "www.vingroup.net"
+  },
+  "VID": {
+    "id": 2287,
+    "name": "Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông",
+    "webUrl": "https://dautuviendong.vn - www.vidon.com.vn"
+  },
+  "VIP": {
+    "id": 2184,
+    "name": "Công ty Cổ phần Vận tải Xăng dầu VIPCO",
+    "webUrl": "www.vipco.com.vn"
+  },
+  "VIX": {
+    "id": 3090,
+    "name": "Công ty Cổ phần Chứng khoán VIX",
+    "webUrl": "https://vixs.vn"
+  },
+  "VJC": {
+    "id": 2873,
+    "name": "Công ty Cổ phần Hàng không VietJet",
+    "webUrl": "http://www.vietjetair.com"
+  },
+  "VMD": {
+    "id": 2426,
+    "name": "Công ty Cổ phần Y Dược phẩm Vimedimex",
+    "webUrl": "www.vietpharm.com.vn/www.vimedimex2-hcm.com"
+  },
+  "VND": {
+    "id": 2810,
+    "name": "Công ty Cổ phần Chứng khoán VNDIRECT",
+    "webUrl": "www.vndirect.com.vn"
+  },
+  "VNG": {
+    "id": 2357,
+    "name": "Công ty Cổ phần Du lịch Thành Thành Công",
+    "webUrl": "www.ttctourist.vn / www.ttchospitality.vn"
+  },
+  "VNL": {
+    "id": 2377,
+    "name": "Công ty Cổ phần Logistics Vinalink",
+    "webUrl": "www.vinalinklogistics.com"
+  },
+  "VNM": {
+    "id": 2281,
+    "name": "Công ty Cổ phần Sữa Việt Nam",
+    "webUrl": "www.vinamilk.com.vn"
+  },
+  "VNS": {
+    "id": 2307,
+    "name": "Công ty Cổ phần Ánh Dương Việt Nam",
+    "webUrl": "www.vinasun.com.vn"
+  },
+  "VOS": {
+    "id": 2425,
+    "name": "Công ty Cổ phần Vận tải Biển Việt Nam",
+    "webUrl": "www.vosco.vn"
+  },
+  "VPB": {
+    "id": 3069,
+    "name": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng",
+    "webUrl": "www.vpbank.com.vn"
+  },
+  "VPD": {
+    "id": 2920,
+    "name": "Công ty Cổ phần Phát triển Điện lực Việt Nam",
+    "webUrl": "http://www.vnpd.com.vn"
+  },
+  "VPG": {
+    "id": 2794,
+    "name": "Công ty Cổ phần Đầu tư Thương mại Xuất nhập khẩu Việt Phát",
+    "webUrl": "http://vietphatgroup.com.vn"
+  },
+  "VPH": {
+    "id": 2252,
+    "name": "Công ty Cổ phần Vạn Phát Hưng",
+    "webUrl": "www.vanphathung.com"
+  },
+  "VPI": {
+    "id": 2778,
+    "name": "Công ty Cổ phần Phát triển Bất động sản Văn Phú",
+    "webUrl": "www.vanphu.vn"
+  },
+  "VPL": {
+    "id": 4483,
+    "name": "Công ty Cổ phần Vinpearl",
+    "webUrl": "https://www.vinpearl.com"
+  },
+  "VPS": {
+    "id": 2791,
+    "name": "Công ty Cổ phần Thuốc sát trùng Việt Nam",
+    "webUrl": "www.vipesco.com.vn"
+  },
+  "VPX": {
+    "id": 7599,
+    "name": "Công ty Cổ phần Chứng khoán VPBank",
+    "webUrl": "www.vpbanks.com.vn"
+  },
+  "VRC": {
+    "id": 2470,
+    "name": "Công ty Cổ phần Bất động sản và Đầu tư VRC",
+    "webUrl": "vrc.com.vn"
+  },
+  "VRE": {
+    "id": 2754,
+    "name": "Công ty Cổ phần Vincom Retail",
+    "webUrl": "www.vincom.com.vn"
+  },
+  "VSC": {
+    "id": 2261,
+    "name": "Công ty Cổ phần Container Việt Nam",
+    "webUrl": "www.viconship.com"
+  },
+  "VSH": {
+    "id": 2283,
+    "name": "Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh",
+    "webUrl": "www.vshpc.evn.com.vn"
+  },
+  "VSI": {
+    "id": 2455,
+    "name": "Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước",
+    "webUrl": "www.waseco.com.vn"
+  },
+  "VTB": {
+    "id": 2172,
+    "name": "Công ty Cổ phần Viettronics Tân Bình",
+    "webUrl": "www.vtb.com.vn"
+  },
+  "VTO": {
+    "id": 2267,
+    "name": "Công ty Cổ phần Vận tải Xăng dầu VITACO",
+    "webUrl": "www.vitaco.petrolimex.com.vn"
+  },
+  "VTP": {
+    "id": 4391,
+    "name": "Tổng Công ty Cổ phần Bưu chính Viettel",
+    "webUrl": "www.viettelpost.com.vn"
+  },
+  "VVS": {
+    "id": 7011,
+    "name": "Công ty Cổ phần Đầu tư Phát triển máy Việt Nam",
+    "webUrl": "www.vimid.vn"
+  },
+  "YBM": {
+    "id": 2822,
+    "name": "Công ty Cổ phần YBM",
+    "webUrl": "http://ybm.com.vn"
+  },
+  "YEG": {
+    "id": 3176,
+    "name": "Công ty Cổ phần Tập đoàn Yeah1",
+    "webUrl": "https://www.yeah1group.com - www.yeah1.vn"
+  }
+}

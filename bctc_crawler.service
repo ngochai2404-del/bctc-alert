@@ -1,0 +1,16 @@
+[Unit]
+Description=BCTC 24/7 Crawler & Telegram Alert Daemon
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/bctc_alert
+ExecStart=/home/ubuntu/bctc_alert/venv/bin/python daemon_crawler.py
+Restart=always
+RestartSec=10
+StandardOutput=append:/home/ubuntu/bctc_alert/crawler_daemon.log
+StandardError=append:/home/ubuntu/bctc_alert/crawler_daemon.log
+
+[Install]
+WantedBy=multi-user.target

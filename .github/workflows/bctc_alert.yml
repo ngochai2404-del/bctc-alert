@@ -1,0 +1,54 @@
+name: BCTC Alert Auto Scanner (5-Min Interval)
+
+on:
+  schedule:
+    # 8:00 - 17:00 Giờ VN (UTC+7) tương ứng với 01:00 - 10:00 Giờ UTC (GMT+0)
+    # Chạy mỗi 5 phút từ Thứ 2 đến Thứ 6
+    - cron: '*/5 1-10 * * 1-5'
+  workflow_dispatch: # Cho phép bấm nút "Run workflow" thủ công bất cứ lúc nào
+
+permissions:
+  contents: write # Cấp quyền ghi để commit và lưu CSDL bctc_alert.db
+
+jobs:
+  bctc_scan:
+    name: Scan & Alert BCTC
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🐍 Cài đặt Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Cài đặt thư viện dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🚀 Chạy kịch bản tuần tra BCTC
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python run_github_actions.py
+
+      - name: 💾 Lưu và đồng bộ CSDL bctc_alert.db
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bctc_alert.db
+          if git diff --staged --quiet; then
+            echo "✅ CSDL không có thay đổi (chưa có BCTC mới), bỏ qua commit."
+          else
+            git commit -m "🤖 [Bot Auto] Đồng bộ CSDL bctc_alert.db mới phát hiện"
+            git push
+            echo "🎉 Đã đẩy cập nhật CSDL lên repository thành công!"
+          fi

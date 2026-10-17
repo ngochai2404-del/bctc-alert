@@ -1,0 +1,67 @@
+{
+    "filter_mode": "QUARTERLY_ONLY",
+    "watchlist": [],
+    "telegram": {
+        "enabled": true,
+        "bot_token": "",
+        "chat_id": "-1003740017431"
+    },
+    "windows_notification": {
+        "enabled": true
+    },
+    "ai": {
+        "enabled": false,
+        "provider": "gemini",
+        "gemini_api_key": "",
+        "model": "gemini-3.5-flash"
+    },
+    "auto_download_pdf": true,
+    "scan_interval_seconds": 30,
+    "keywords": {
+        "bctc": [
+            "báo cáo tài chính",
+            "bctc",
+            "báo cáo kt",
+            "soát xét",
+            "kiểm toán",
+            "giải trình biến động",
+            "chênh lệch lợi nhuận",
+            "thuyết minh bctc",
+            "kqkd",
+            "kết quả kinh doanh",
+            "báo cáo tài chính quý",
+            "bctc quý"
+        ],
+        "production_sales": [
+            "sản lượng",
+            "tiêu thụ",
+            "doanh thu",
+            "sản xuất",
+            "kinh doanh",
+            "ước đạt",
+            "đơn hàng",
+            "tiến độ",
+            "xuất khẩu",
+            "bán hàng",
+            "hoạt động sxkd",
+            "tình hình kinh doanh",
+            "tình hình sản xuất"
+        ],
+        "resolution": [
+            "nghị quyết",
+            "hđqt",
+            "đhđcđ",
+            "hội đồng quản trị",
+            "đại hội đồng cổ đông",
+            "tạm ứng cổ tức",
+            "chi trả cổ tức",
+            "chào bán cổ phiếu",
+            "phát hành cổ phiếu",
+            "chào bán trái phiếu",
+            "phát hành trái phiếu",
+            "chào bán riêng lẻ",
+            "phát hành esop",
+            "tăng vốn điều lệ"
+        ]
+    }
+}

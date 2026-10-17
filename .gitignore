@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Log files
+*.log
+crawler_daemon.log
+streamlit.log
+
+# Temporary Excel result exports
+Ket_qua_cao_BCTC_*.xlsx
+
+# Checkpoints (nếu muốn giữ nhẹ repo)
+*.tmp
+.DS_Store
+Thumbs.db
